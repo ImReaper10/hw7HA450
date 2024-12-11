@@ -1,38 +1,24 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.dashboard {
+    font-family: Arial, sans-serif;
+    
+    padding: 20px;
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  
+  .file-upload {
+    margin-bottom: 20px;
   }
-  to {
-    transform: rotate(360deg);
+  
+  .dropdown {
+    margin-bottom: 20px;
   }
-}
+  
+  .color-dropdown {
+    padding: 5px;
+    font-size: 14px;
+    margin-left: 10px;
+  }
+  
+  .selected-tweets {
+    margin-top: 20px;
+  }
+  
