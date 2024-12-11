@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw7HA450/static/css/main.b34bb19f.css",
+    "main.js": "/hw7HA450/static/js/main.da228426.js",
+    "index.html": "/hw7HA450/index.html",
+    "main.b34bb19f.css.map": "/hw7HA450/static/css/main.b34bb19f.css.map",
+    "main.da228426.js.map": "/hw7HA450/static/js/main.da228426.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b34bb19f.css",
+    "static/js/main.da228426.js"
+  ]
+}
